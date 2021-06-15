@@ -24,6 +24,6 @@ The popular game which already exist.
 - new game button
 - new enemies
 ## Conclusion 
-It was an interesting project which helped me to understand how works SpriteKit and how i can play sounds inside game.
-Even though it was a basic app, it was challenging for me and takes lots of efforts to finish.
+It was an interesting project which helped me to understand how works SpriteKit and how i can play sounds inside game.  
+Even though it was a basic app, it was challenging for me and takes lots of efforts to finish.  
 I'm satisfied with the work I've done and will return to make this up even more beautiful.
