@@ -1,5 +1,5 @@
 # FroutNinja
-The game created for surviving 
+The popular game which already exist. 
 ## Tools implemented in project
 - SpriteKit
 - AVFoundation
